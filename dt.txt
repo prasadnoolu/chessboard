@@ -1,0 +1,4 @@
+servo 0- base
+servo 1-shoulder
+servo 2-elbow
+servo 3-wrist
